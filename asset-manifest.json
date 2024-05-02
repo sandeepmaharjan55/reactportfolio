@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.35f6c53b.css",
-    "main.js": "/static/js/main.b5d3f253.js",
+    "main.js": "/static/js/main.f3291b34.js",
     "static/js/770.b477def6.chunk.js": "/static/js/770.b477def6.chunk.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "static/media/avatar.svg": "/static/media/avatar.25e41b8b812093b52f08727c0e05ba70.svg",
     "static/media/agronep.png": "/static/media/agronep.5298a2e874260f93698d.png",
     "static/media/aichat.png": "/static/media/aichat.5f6f83b259c6e62647a1.png",
     "static/media/walkmangreencoins.png": "/static/media/walkmangreencoins.3012c19c66b8c7d0131d.png",
@@ -16,15 +15,16 @@
     "static/media/logo.png": "/static/media/logo.34587eecf4618faa0f66.png",
     "static/media/dsshrm.png": "/static/media/dsshrm.e8e1979fd15c94113fa6.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.35f6c53b.css.map": "/static/css/main.35f6c53b.css.map",
-    "main.b5d3f253.js.map": "/static/js/main.b5d3f253.js.map",
+    "main.f3291b34.js.map": "/static/js/main.f3291b34.js.map",
     "770.b477def6.chunk.js.map": "/static/js/770.b477def6.chunk.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35f6c53b.css",
-    "static/js/main.b5d3f253.js"
+    "static/js/main.f3291b34.js"
   ]
 }
