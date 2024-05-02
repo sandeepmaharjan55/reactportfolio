@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.35f6c53b.css",
-    "main.js": "/static/js/main.ade75d23.js",
+    "main.js": "/static/js/main.0f02587d.js",
     "static/js/770.b477def6.chunk.js": "/static/js/770.b477def6.chunk.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/agronep.png": "/static/media/agronep.5298a2e874260f93698d.png",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.35f6c53b.css.map": "/static/css/main.35f6c53b.css.map",
-    "main.ade75d23.js.map": "/static/js/main.ade75d23.js.map",
+    "main.0f02587d.js.map": "/static/js/main.0f02587d.js.map",
     "770.b477def6.chunk.js.map": "/static/js/770.b477def6.chunk.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35f6c53b.css",
-    "static/js/main.ade75d23.js"
+    "static/js/main.0f02587d.js"
   ]
 }
