@@ -1,11 +1,14 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
+import { CgTrello } from "react-icons/cg";
 import {
   SiVisualstudiocode,
   SiPostman,
   SiSlack,
   SiMacos,
   SiLatex,
+  SiIntellijidea,
+  SiDiscord,
  
 } from "react-icons/si";
 
@@ -26,6 +29,15 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiLatex />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <CgTrello />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiIntellijidea />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDiscord />
       </Col>
     
     </Row>
