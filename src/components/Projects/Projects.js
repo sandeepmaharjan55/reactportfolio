@@ -38,7 +38,7 @@ function Projects() {
               imgPath={walkmangreencoins}
               isBlog={false}
               title="Walkman by Green Coins"
-              description="Walkman motivates users to walk/run/cycle instead of taking vehicles by rewarding the users with incentives from partner brands across the valley. Incentive based discount coupon partnership is the first of its kind in Nepal and moreover, rewards are also proven to be the best way to motivate people. We make this possible by rewarding the users with our virtual 'GreenCoins' which can be used to redeem discounts through our app.</br>100 Green Coins can be earned by walking 10,000 steps a day. These green coins then can be redeemed to get discounts and offers from various partnered up stores.
+              description="Walkman motivates users to walk/run/cycle instead of taking vehicles by rewarding the users with incentives from partner brands across the valley. Incentive based discount coupon partnership is the first of its kind in Nepal and moreover, rewards are also proven to be the best way to motivate people. We make this possible by rewarding the users with our virtual 'GreenCoins' which can be used to redeem discounts through our app. 100 Green Coins can be earned by walking 10,000 steps a day. These green coins then can be redeemed to get discounts and offers from various partnered up stores.
               Skills: Node.js · Express.js · React.js · MongoDB"
               ghLink="#"
               demoLink="#"
@@ -62,7 +62,7 @@ function Projects() {
               imgPath={agronep}
               isBlog={false}
               title="AgroNepal"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model.
+              description="A web based interactive platform that allows farmers to buy and sell goods with recommendation system.
               Skills: PHP · PhpMyAdmin · Apache · MySQL · MySQLi · WAMP"
               ghLink="https://github.com/sandeepmaharjan55/AgroNepal"
               demoLink="#"
