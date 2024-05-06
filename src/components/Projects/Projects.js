@@ -47,6 +47,24 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={ems}
+              isBlog={false}
+              title="The projectXplore"
+              description="ProjectXplore was started to provide tourists with essential 
+              information for exploring Nepal. It will be offering details on accommodations, 
+              dining options, and culinary experiences across the country. 
+              From cozy guesthouses to luxurious hotels, and traditional Nepali cuisine 
+              to international fare, the platform serves as a comprehensive guide for travelers 
+              seeking authentic experiences. Through curated recommendations and reviews, 
+              ProjectXplore empowers tourists to make informed decisions and enhance their journey through Nepal.
+              Skills: Mongodb · ExpressJs · ReactJs · NodeJs"
+              ghLink="https://github.com/sandeepmaharjan55/theprojectexplore/"
+              demoLink="#"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={dsshrm}
               isBlog={false}
               title="Decision Support System for Human Resource Management"
@@ -80,6 +98,7 @@ function Projects() {
               demoLink="#"
             />
           </Col>
+          
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -89,7 +108,7 @@ function Projects() {
               description="AI Chatbot Web Speech API.
               Skills: JavaScript · Express.js · Socket.io"
               ghLink="https://github.com/sandeepmaharjan55/ai-chatbot"
-              demoLink="#"
+              demoLink="https://www.loom.com/share/5a504c465dae4a5ca89dfa4fa3f712fb"
             />
           </Col>
         </Row>
