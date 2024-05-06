@@ -6,6 +6,7 @@ import agronep from "../../Assets/Projects/agronep.png";
 import aichat from "../../Assets/Projects/aichat.png";
 import dsshrm from "../../Assets/Projects/dsshrm.png";
 import inksvilla from "../../Assets/Projects/inksvilla.png";
+import projectXplore from "../../Assets/Projects/projectXplore.png";
 import ems from "../../Assets/Projects/ems.png";
 import walkmangreencoins from "../../Assets/Projects/walkmangreencoins.png";
 
@@ -47,7 +48,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ems}
+              imgPath={projectXplore}
               isBlog={false}
               title="The projectXplore"
               description="ProjectXplore was started to provide tourists with essential 
