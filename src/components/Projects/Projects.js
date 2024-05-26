@@ -9,6 +9,7 @@ import inksvilla from "../../Assets/Projects/inksvilla.png";
 import projectXplore from "../../Assets/Projects/projectXplore.png";
 import ems from "../../Assets/Projects/ems.png";
 import walkmangreencoins from "../../Assets/Projects/walkmangreencoins.png";
+import mulipariwar from "../../Assets/Projects/muli.png";
 
 function Projects() {
   return (
@@ -99,7 +100,20 @@ function Projects() {
               demoLink="#"
             />
           </Col>
-          
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={mulipariwar}
+              isBlog={false}
+              title="Muli Pariwar Lagat"
+              description="Muli Pariwar Lagat is a web-based application, to store and view records with charts of
+              demographic information for villages, including a PDF file viewer for paper records 
+              (transforming paper-based records into digital format).
+              Skills: Asp.net MVC · Asp.net · Microsoft SQL Server · MySql"
+              ghLink="https://github.com/sandeepmaharjan55/Muli_Pariwar_Lagat/"
+              demoLink="#"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -112,6 +126,7 @@ function Projects() {
               demoLink="https://www.loom.com/share/5a504c465dae4a5ca89dfa4fa3f712fb"
             />
           </Col>
+
         </Row>
       </Container>
     </Container>
