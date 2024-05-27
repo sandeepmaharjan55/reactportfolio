@@ -21,10 +21,9 @@ function AboutCard() {
               I played a pivotal role in developing and maintaining client and server-side applications using MERN Stack. 
               My contributions led to enhanced system performance, scalability, and improved database management
                with a focus on MongoDB.
-               <br />During my tenure as a Software Engineer Intern at Bigfoot Infotech Pvt. Ltd., 
-                I honed my skills in Node. Js development, collaborating with experienced engineers to 
-                resolve complex issues. I emphasized code documentation and participated in training programs 
-                to promote best practices within the team.
+               <br />During my tenure as a Software Engineer at Bigfoot Infotech Pvt. Ltd., 
+               I collaborated closely with other software engineers to troubleshoot NodeJS app issues,
+               documented code and processes for team knowledge sharing, implemented middleware components, and collaborated with various stakeholders. I enhanced product performance, added functionality, corrected coding issues, and updated interfaces. I also stayed updated with the latest backend development trends and technologies.
                 <br />As the Co-founder and Software Engineer at Walkman by Green Coins, 
                   I spearheaded the development of the Android mobile application's back-end using Node Js. 
                   Our achievements include being finalists in renowned entrepreneurial events like Connect [IN] and ICT Award 2019, 
