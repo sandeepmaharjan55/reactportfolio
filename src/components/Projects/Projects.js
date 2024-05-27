@@ -110,7 +110,7 @@ function Projects() {
               demographic information for villages, including a PDF file viewer for paper records 
               (transforming paper-based records into digital format).
               Skills: Asp.net MVC · Asp.net · Microsoft SQL Server · MySql"
-              ghLink="https://github.com/sandeepmaharjan55/Muli_Pariwar_Lagat/"
+              ghLink="https://github.com/sandeepmaharjan55/mulipariwarlagat"
               demoLink="#"
             />
           </Col>
