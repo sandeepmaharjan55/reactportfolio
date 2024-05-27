@@ -24,20 +24,19 @@ function Home2() {
               <br />
               <br />Proficient:&nbsp;
               <i>
-                <b className="purple"> C, C++, NodeJs, ExpressJs, PHP, ASP.NET MVC, Java </b>
+                <b className="purple"> C, C++, NodeJS, ExpressJS, PHP, ASP.NET MVC, Java </b>
               </i>
               <br />
               <br />
               Familiar:&nbsp;
               <i>
-                <b className="purple">Python, ReactJs, Java, Go, Javascript, CodeIgniter, Laravel, Html, CSS, Flutter, TypeScript</b>
+                <b className="purple">Python, ReactJs, Go, Javascript, CodeIgniter, Laravel, Html, CSS, Flutter, TypeScript</b>
              
               </i>
               <br />
               <br />
               Tools and Technologies: &nbsp;
-             <b className="purple">PyTorch, Scikit-learn, GIT, Pandas, Numpy, Bootstrap, SQL, MongoDB, MSSQL, PostgreSQL, matplotlib, LaTex, REST,
-Tensorflow, Keras, IaaS, GIT, Gitlab, AWS, DigitalOcean, Docker, Apache, NGINX, JWT, Firebase, Postman, Socket.io</b>
+             <b className="purple">Visual Studio, PyTorch, Scikit-learn, GIT, Pandas, Numpy, Bootstrap, SQL, MongoDB, Microsoft SQL Server, PostgreSQL, matplotlib, LaTex, WebAPI, Tensorflow, Keras, IaaS, GIT, Gitlab, AWS, DigitalOcean, Docker, Apache, NGINX, JWT, Firebase, Postman, Socket.io</b>
             
             
             </p>
