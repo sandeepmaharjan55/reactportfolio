@@ -30,7 +30,7 @@ function Projects() {
               imgPath={inksvilla}
               isBlog={false}
               title="Inksvilla - Tattoo Digitalization"
-              description="A platform to connect the tattoo artist and enthusiast under the same hood. \n
+              description="A platform to connect the tattoo artist and enthusiast under the same hood.
               Skills: MERN Stack · Node.js · React.js · MongoDB · Express.js · JavaScript"
               ghLink="#"
               demoLink="https://inksvilla.com/"
