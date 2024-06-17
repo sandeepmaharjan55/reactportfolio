@@ -10,6 +10,8 @@ import projectXplore from "../../Assets/Projects/projectXplore.png";
 import ems from "../../Assets/Projects/ems.png";
 import walkmangreencoins from "../../Assets/Projects/walkmangreencoins.png";
 import mulipariwar from "../../Assets/Projects/muli.png";
+import xmlgeogebra from "../../Assets/Projects/xmlgeogebra.png";
+
 
 function Projects() {
   return (
@@ -127,6 +129,17 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={xmlgeogebra}
+              isBlog={false}
+              title="Reverse Engineering Geogebra XML"
+              description="AI Chatbot Web Speech API.
+              Skills: Java · JMenuBar · JFrame"
+              ghLink="https://github.com/sandeepmaharjan55/xmlgeogebra"
+              demoLink="https://www.loom.com/share/e632a35d4cae40109bbc05130599ccfc?sid=1631019d-17bf-44f1-b14e-aa46a746cd43"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
