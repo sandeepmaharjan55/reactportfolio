@@ -55,7 +55,7 @@ function Projects() {
               isBlog={false}
               title="Reverse Engineering Geogebra XML"
               description="A Java project to add/remove points, lines, and polygons on a 2D plane (with Menu Bar, Drawing Canvas, and Control Panel). The main window of the application is built with a JFrame object from the Java Swing API. The application uses an XML template file to read/create a ggb file which can be opened on geogebra.org. Features: Draw 2D elements, read and write files to and from GeoGebra.org.
-              Skills: Java · JFrame"
+              Skills: Java · JFrame · XML"
               ghLink="https://github.com/sandeepmaharjan55/xmlgeogebra/tree/V3"
               demoLink="https://www.loom.com/share/e632a35d4cae40109bbc05130599ccfc?sid=1631019d-17bf-44f1-b14e-aa46a746cd43"
             />
