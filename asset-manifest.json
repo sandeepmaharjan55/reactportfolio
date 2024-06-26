@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.35f6c53b.css",
-    "main.js": "/static/js/main.f2b3d620.js",
+    "main.js": "/static/js/main.46e3cc3e.js",
     "static/js/770.b477def6.chunk.js": "/static/js/770.b477def6.chunk.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/avatar.png": "/static/media/avatar.ddb1b0b4c9d0d32b78af.png",
@@ -10,7 +10,7 @@
     "static/media/walkmangreencoins.png": "/static/media/walkmangreencoins.3012c19c66b8c7d0131d.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Sandeep_Resume.pdf": "/static/media/Sandeep_Resume.6f940f469ea5b4afc38d.pdf",
+    "static/media/Sandeep_Resume.pdf": "/static/media/Sandeep_Resume.66f54db5dad928c4ce64.pdf",
     "static/media/ems.png": "/static/media/ems.ea820775fd7efa8f809d.png",
     "static/media/inksvilla.png": "/static/media/inksvilla.d1c4fe169d9d5985d176.png",
     "static/media/xmlgeogebra.png": "/static/media/xmlgeogebra.bd48a56a057bdb82642d.png",
@@ -22,12 +22,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.35f6c53b.css.map": "/static/css/main.35f6c53b.css.map",
-    "main.f2b3d620.js.map": "/static/js/main.f2b3d620.js.map",
+    "main.46e3cc3e.js.map": "/static/js/main.46e3cc3e.js.map",
     "770.b477def6.chunk.js.map": "/static/js/770.b477def6.chunk.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35f6c53b.css",
-    "static/js/main.f2b3d620.js"
+    "static/js/main.46e3cc3e.js"
   ]
 }
