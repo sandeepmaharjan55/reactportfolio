@@ -37,7 +37,7 @@ function Projects() {
             <CoverageCard
               imgPath={walkmangreencoins}
               isBlog={true}
-              title="Walkman by Green Coins - ICT award 2019"
+              title="Walkman by Green Coins, ICT award 2019"
               description="One of the top 5 finalists out of more than 200 applications for all categories in the ICT Award 2019 - The Biggest Tech Award Of Nepal's
 Startup ICT Award Category. Image source: ICT Award"
               ghLink="https://www.youtube.com/watch?v=HYQR0mZ2rQw"
@@ -58,7 +58,7 @@ Startup ICT Award Category. Image source: ICT Award"
             <CoverageCard
               imgPath={connectin}
               isBlog={true}
-              title="Top 6 finalists - Connect [IN]"
+              title="Top 6 finalists, Connect [IN]"
               description="Among more than 400 Nepali and Indian startups, one of the finalists at Connect [IN] - 2nd International Entrepreneurship Conclave. The top 6 ideas appeared in the finale are Airlift, Swadeshi Innovations, Maker Valley, Unschool, Offering Happiness, and Walkman by Green Coins.
               Image source: kathmandupost"
               ghLink="https://kathmandupost.com/money/2019/01/17/entrepreneurs-gather-for-conclave-in-capital"
@@ -69,7 +69,7 @@ Startup ICT Award Category. Image source: ICT Award"
             <CoverageCard
               imgPath={thekathmandupost}
               isBlog={true}
-              title="Covered in National Daily Newspaper - The Kathmandu Post escalate"
+              title="Covered in the national daily newspaper, The Kathmandu Post, escalates"
               description=""
               ghLink="#"
               demoLink="#"              
@@ -80,7 +80,7 @@ Startup ICT Award Category. Image source: ICT Award"
             <CoverageCard
               imgPath={wavemagazine}
               isBlog={true}
-              title="Covered in Nepal's popular magazine - Wave Magazine"
+              title="Covered in Nepal's popular magazine, Wave Magazine"
               description=""
               ghLink="#"
               demoLink="#"
@@ -91,7 +91,7 @@ Startup ICT Award Category. Image source: ICT Award"
             <CoverageCard
               imgPath={climatelaunchpad}
               isBlog={true}
-              title="Top 11 finalists of Climate Launch Pad 2020 South Asia"
+              title="Top 11 finalists of Climate Launchpad 2020 South Asia"
               description=""
               ghLink="https://www.youtube.com/watch?v=jy5fg1J43b4"
               demoLink="#"
