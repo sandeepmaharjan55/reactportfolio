@@ -9,7 +9,7 @@ import connectin from "../../Assets/Coverages/connectin.png";
 import climatelaunchpad from "../../Assets/Coverages/climatelaunchpad.jpg";
 import walkmangreencoins from "../../Assets/Coverages/walkman.jpg";
 import nehub from "../../Assets/Coverages/nehub.png";
-
+import sunway from "../../Assets/Coverages/sunway.png";
 
 function Projects() {
   return (
@@ -94,6 +94,16 @@ Startup ICT Award Category. Image source: ICT Award"
               title="Top 11 finalists of Climate Launch Pad 2020 South Asia"
               description=""
               ghLink="https://www.youtube.com/watch?v=jy5fg1J43b4"
+              demoLink="#"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <CoverageCard
+              imgPath={sunway}
+              isBlog={true}
+              title="Environment Solutions through Information Technology"
+              description="Interviewed by Sunway College Kathmandu"
+              ghLink="https://www.youtube.com/watch?v=dieL2NxqycQ"
               demoLink="#"
             />
           </Col>
