@@ -110,7 +110,7 @@ function NavBar() {
                 <ImBlog
                   style={{ marginBottom: "2px" }}
                 />{" "}
-                Coverage
+                News Coverage
               </Nav.Link>
             </Nav.Item>
 
