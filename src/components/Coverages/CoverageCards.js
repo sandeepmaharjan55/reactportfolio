@@ -15,7 +15,7 @@ function CoverageCards(props) {
         </Card.Text>
         <Button variant="primary" href={props.ghLink} target="_blank">
           <BsGithub /> &nbsp;
-          {props.isBlog ? "Read more.." : "GitHub"}
+          {props.isBlog ? "Link" : "GitHub"}
         </Button>
         {"\n"}
         {"\n"}
