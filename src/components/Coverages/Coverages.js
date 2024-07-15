@@ -10,6 +10,7 @@ import climatelaunchpad from "../../Assets/Coverages/climatelaunchpad.jpg";
 import walkmangreencoins from "../../Assets/Coverages/walkman.jpg";
 import nehub from "../../Assets/Coverages/nehub.png";
 import sunway from "../../Assets/Coverages/sunway.png";
+import ap1tv from "../../Assets/Coverages/ap1tv.png";
 
 function Projects() {
   return (
@@ -70,7 +71,7 @@ Startup ICT Award Category. Image source: ICT Award"
               imgPath={thekathmandupost}
               isBlog={true}
               title="Covered in the national daily newspaper, The Kathmandu Post, escalates"
-              description=""
+              description="Image source: kathmandupost"
               ghLink="#"
               demoLink="#"              
             />
@@ -81,7 +82,7 @@ Startup ICT Award Category. Image source: ICT Award"
               imgPath={wavemagazine}
               isBlog={true}
               title="Covered in Nepal's popular magazine, Wave Magazine"
-              description=""
+              description="Image source: Wave Magazine"
               ghLink="#"
               demoLink="#"
             />
@@ -92,7 +93,7 @@ Startup ICT Award Category. Image source: ICT Award"
               imgPath={climatelaunchpad}
               isBlog={true}
               title="Top 11 finalists of Climate Launchpad 2020 South Asia"
-              description=""
+              description="Image source: Emerging Technologies"
               ghLink="https://www.youtube.com/watch?v=jy5fg1J43b4"
               demoLink="#"
             />
@@ -102,12 +103,21 @@ Startup ICT Award Category. Image source: ICT Award"
               imgPath={sunway}
               isBlog={true}
               title="Environment Solutions through Information Technology"
-              description="Interviewed by Sunway College Kathmandu"
+              description="Interviewed by Sunway College Kathmandu. Image source: sunway college kathmandu"
               ghLink="https://www.youtube.com/watch?v=dieL2NxqycQ"
               demoLink="#"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <CoverageCard
+              imgPath={ap1tv}
+              isBlog={true}
+              title="BENEFITS OF WALKING || HEALTH AND WELLNESS"
+              description="Covered in the national TV AP1 TV. Image source: Ap1 TV"
+              ghLink="https://youtu.be/OvKGWooY2O8?si=dOcKv_iqQPe2XYbw"
+              demoLink="#"
+            />
+          </Col>
         
         </Row>
       </Container>
