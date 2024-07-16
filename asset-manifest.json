@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.35f6c53b.css",
-    "main.js": "/static/js/main.df3f0620.js",
+    "main.js": "/static/js/main.19edb79f.js",
     "static/js/770.a36fb58a.chunk.js": "/static/js/770.a36fb58a.chunk.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/ap1tv.png": "/static/media/ap1tv.8f88658bed81253c189c.png",
@@ -18,7 +18,7 @@
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/climatelaunchpad.jpg": "/static/media/climatelaunchpad.0cff207d2e47b7570885.jpg",
-    "static/media/Sandeep_Resume.pdf": "/static/media/Sandeep_Resume.aa6dadb71ecf44c23053.pdf",
+    "static/media/Sandeep_Resume.pdf": "/static/media/Sandeep_Resume.9033ee9e56d1e7745a3e.pdf",
     "static/media/ems.png": "/static/media/ems.ea820775fd7efa8f809d.png",
     "static/media/walkman.jpg": "/static/media/walkman.99508629ad5c765bf047.jpg",
     "static/media/inksvilla.png": "/static/media/inksvilla.d1c4fe169d9d5985d176.png",
@@ -31,12 +31,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.35f6c53b.css.map": "/static/css/main.35f6c53b.css.map",
-    "main.df3f0620.js.map": "/static/js/main.df3f0620.js.map",
+    "main.19edb79f.js.map": "/static/js/main.19edb79f.js.map",
     "770.a36fb58a.chunk.js.map": "/static/js/770.a36fb58a.chunk.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35f6c53b.css",
-    "static/js/main.df3f0620.js"
+    "static/js/main.19edb79f.js"
   ]
 }
