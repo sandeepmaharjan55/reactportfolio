@@ -62,6 +62,7 @@ const App = () => {
     const fetchCourses = async () => {
       try {
         const response = await fetch('https://canvas.instructure.com/api/v1/courses', {
+          mode:'no-cors',
           headers: {
             'Accept': 'application/json',
             'Authorization': `Bearer 7~32m2H43cDGGvWTYrfztDXzBNEEAaRWZNB4RAcfNPDDuuJHXMeM6JDYF2anYHxFTP`,
