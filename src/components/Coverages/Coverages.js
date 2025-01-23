@@ -29,7 +29,7 @@ function Projects() {
               imgPath={inksvilla}
               isBlog={true}
               title="Startup Hub Nepal declares Inksvilla as Nepal champion of Startup World Cup for this year; will represent Nepal in global competition in USA - sharesansar"
-              description="Start-up hub Nepal has declared Inksvilla, the tattoo start-up that aims to work in digitalizing tattoo art, as the winner of Startup World Cup for Nepal. Image source: sharesansar"
+              description="Start-up hub Nepal has declared Inksvilla, the tattoo start-up that aims to work in digitalizing tattoo art, as the winner of Startup World Cup for Nepal. Inksvilla and the previous winner Taximandu will now represent Nepal in the global competition at Silicon Valley of the USA in coming September, 2079, as per the media statement. Image source: sharesansar"
               ghLink="https://www.sharesansar.com/index.php/newsdetail/startup-hub-nepal-declares-exvilla-as-nepal-champion-of-startup-world-cup-for-this-year-will-represent-nepal-in-global-competition-in-usa-2022-07-08"
             />
           </Col>
