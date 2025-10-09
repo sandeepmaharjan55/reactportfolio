@@ -61,7 +61,7 @@ Startup ICT Award Category. Image source: ICT Award"
               isBlog={true}
               title="Top 6 finalists, Connect [IN]"
               description="Among more than 400 Nepali and Indian startups, one of the finalists at Connect [IN] - 2nd International Entrepreneurship Conclave. The top 6 ideas appeared in the finale are Airlift, Swadeshi Innovations, Maker Valley, Unschool, Offering Happiness, and Walkman by Green Coins.
-              Image source: kathmandupost"
+              Image source: The Kathmandu Post"
               ghLink="https://kathmandupost.com/money/2019/01/17/entrepreneurs-gather-for-conclave-in-capital"
             />
           </Col>
@@ -71,7 +71,7 @@ Startup ICT Award Category. Image source: ICT Award"
               imgPath={thekathmandupost}
               isBlog={true}
               title="Covered in the national daily newspaper, The Kathmandu Post, escalates"
-              description="Image source: kathmandupost"
+              description="Image source: The Kathmandu Post"
               ghLink="https://kathmandupost.com/national/2019/01/14/walk-and-earn"
               demoLink="#"              
             />
