@@ -72,7 +72,7 @@ Startup ICT Award Category. Image source: ICT Award"
               isBlog={true}
               title="Covered in the national daily newspaper, The Kathmandu Post, escalates"
               description="Image source: kathmandupost"
-              ghLink="#"
+              ghLink="https://kathmandupost.com/national/2019/01/14/walk-and-earn"
               demoLink="#"              
             />
           </Col>
