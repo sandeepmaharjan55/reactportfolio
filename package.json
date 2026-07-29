@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://sandeepmaharjan.com.np",
+  "homepage": "https://sandeepmaharjan55.github.io/reactportfolio/",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
